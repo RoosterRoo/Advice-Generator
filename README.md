@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@Github](https://your-solution-url.com)
-- Live Site URL: [@Github Pages](https://your-live-site-url.com)
+- Solution URL: [@Github](https://github.com/RoosterRoo/Advice-Generator)
+- Live Site URL: [@Github Pages](https://roosterroo.github.io/Advice-Generator/)
 
 ## My process
 
@@ -43,19 +43,21 @@ Users should be able to:
 
 ### What I learned
 
+I learned how to use negative margin to place the image on the border
+
 ### Continued development
+
+Relying on feedback of the community for further update on the frontend
 
 ### Useful resources
 
+- [@CSSTricks](https://css-tricks.com/negative-margins/) - Negative margins
+
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@RoosterRoo](https://roosterroo.github.io/Advice-Generator/)
 - LinkedIn - [@SayanDe](https://www.linkedin.com/in/sayan-de-b42244b7/)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I would to thank my family and friends and obviously to Frontend Mentor and its community for providing such an amazing opportunity to practice and grow my skills.
